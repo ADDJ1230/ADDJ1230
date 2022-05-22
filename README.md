@@ -3,9 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Nitroc, an IT student, studying at IPL Vinci. I want to become an analyst in cybersecurity.</div>  
+### <div align="center">I'm ADJ, and i'm learning all web components. I want to become a web developper.</div>  
 
-- 🌱 I’m currently learning DevOps  
+- 🌱 I’m currently on LynDev Project  
   
 
 <br/>  
