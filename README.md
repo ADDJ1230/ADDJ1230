@@ -61,12 +61,12 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://github.com/Nitroc1701" target="_blank">
+  <a href="https://github.com/ADDJ1230" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
 </div>
 <div align="center">
-  <a href="https://discord.gg/C4zqyGKNpf" target="_blank">
+  <a href="https://lyndev.ga/discord" target="_blank">
     <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
   </a>  
 </div> 
@@ -74,10 +74,10 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nitroc1701&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ADDJ1230&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nitroc1701&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ADDJ1230&&style=flat-square" align="center" />
 </div>
